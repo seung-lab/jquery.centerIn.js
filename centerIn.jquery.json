@@ -9,6 +9,7 @@
         "horizontally",
         "center",
         "offset",
+        "align",
         "middle"
     ],
     "version": "1.0.0",
