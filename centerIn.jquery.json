@@ -1,0 +1,36 @@
+{
+    "name": "centerIn",
+    "title": "Center In",
+    "description": "jQuery plugin to center an element within another element with fine control over orientation and offset.",
+    "keywords": [
+        "vertical",
+        "vertically",
+        "horizontal",
+        "horizontally",
+        "center",
+        "offset",
+        "middle"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "William Silversmith, Seung Lab, MIT",
+        "url": "http://eyewire.org"
+    },
+    "maintainers": [
+        {
+            "name": "William Silversmith",
+            "email": "wms@mit.edu",
+            "url": "https://twitter.com/willsilversmith"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/seung-lab/jquery.centerIn.js/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/seung-lab/jquery.centerIn.js/issues",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
